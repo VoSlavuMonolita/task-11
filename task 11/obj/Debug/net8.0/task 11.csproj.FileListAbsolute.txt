@@ -1,0 +1,14 @@
+C:\My Projects\C# 4 курс\task 11\task 11\bin\Debug\net8.0\task 11.exe
+C:\My Projects\C# 4 курс\task 11\task 11\bin\Debug\net8.0\task 11.deps.json
+C:\My Projects\C# 4 курс\task 11\task 11\bin\Debug\net8.0\task 11.runtimeconfig.json
+C:\My Projects\C# 4 курс\task 11\task 11\bin\Debug\net8.0\task 11.dll
+C:\My Projects\C# 4 курс\task 11\task 11\bin\Debug\net8.0\task 11.pdb
+C:\My Projects\C# 4 курс\task 11\task 11\obj\Debug\net8.0\task 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\C# 4 курс\task 11\task 11\obj\Debug\net8.0\task 11.AssemblyInfoInputs.cache
+C:\My Projects\C# 4 курс\task 11\task 11\obj\Debug\net8.0\task 11.AssemblyInfo.cs
+C:\My Projects\C# 4 курс\task 11\task 11\obj\Debug\net8.0\task 11.csproj.CoreCompileInputs.cache
+C:\My Projects\C# 4 курс\task 11\task 11\obj\Debug\net8.0\task 11.dll
+C:\My Projects\C# 4 курс\task 11\task 11\obj\Debug\net8.0\refint\task 11.dll
+C:\My Projects\C# 4 курс\task 11\task 11\obj\Debug\net8.0\task 11.pdb
+C:\My Projects\C# 4 курс\task 11\task 11\obj\Debug\net8.0\task 11.genruntimeconfig.cache
+C:\My Projects\C# 4 курс\task 11\task 11\obj\Debug\net8.0\ref\task 11.dll
